@@ -17,6 +17,7 @@ no tengo mucho que decir, me gusta aprender algo nuevo a diario, simplemente la 
   - React JS
   - React Native
   - Vue
+  - Angular
   - Next JS
 - Otras tecnologias y librerias
   - SCSS
