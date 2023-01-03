@@ -9,6 +9,7 @@ no tengo mucho que decir, me gusta aprender algo nuevo a diario, simplemente la 
   - Java Script
   - Type Script
   - PHP
+  - Python
 - Frameworks
   - Node JS
   - Laravel
@@ -19,6 +20,9 @@ no tengo mucho que decir, me gusta aprender algo nuevo a diario, simplemente la 
   - Vue
   - Angular
   - Next JS
+  - DJango
+  - Rest Framework
+  - Nest JS
 - Otras tecnologias y librerias
   - SCSS
   - AntD
